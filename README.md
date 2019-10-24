@@ -1,1 +1,0 @@
-# nosql2h19-trello
